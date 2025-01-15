@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muaishaq
-- 👀 I’m interested in meeting my fellow deveopers to share project ideas. 
+- 👀 I’m interested in meeting my fellow developers to share project ideas. 
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on Full stack, Front End, and Back End development 
 - 📫 How to reach me tel:+234 8068638021, +234 7083501555 
